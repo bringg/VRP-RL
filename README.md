@@ -1,7 +1,8 @@
 
 # Reinforcement Learning for Solving the Vehicle Routing Problem
 
-This is the Bringg's version of the project. The plan is to use it first for the initial solution (that is farther optimized by Jsprit) then to deploy it on small jobs (with ~10 tasks) and finaly as a replacement of Jsprit.
+This is Bringg's version of the VRP solution implemented with Reinforcment Learning. 
+The plan is to use it first for the initial solution (that is farther optimized by Jsprit) then to deploy it on small jobs (with ~10 tasks) and finaly as a replacement of Jsprit.
 
 
 ## Paper
